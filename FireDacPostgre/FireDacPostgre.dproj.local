@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/31 23:33:02.000.281,=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/11/01 23:22:48.000.919,=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/21 23:22:35.425,=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/21 23:23:40.307,C:\Users\tporto\Desktop\FireDacPostgre\uPrincipal.pas=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/21 23:23:40.307,C:\Users\tporto\Desktop\FireDacPostgre\uPrincipal.dfm=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/05/21 23:23:45.756,C:\Users\tporto\Desktop\FireDacPostgre\FireDacPostgre.dproj=C:\Users\tporto\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
